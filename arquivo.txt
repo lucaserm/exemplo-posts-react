@@ -1,3 +1,0 @@
- ssh-keygen -t rsa -f "/c/Users/Mario Macedo/.ssh/github" -C "lucasedumacedo@gmail.com"
- eval "$(ssh-agent -s)"
- ssh-add"/c/Users/Mario Macedo/.ssh/github"
